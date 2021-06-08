@@ -64,5 +64,6 @@
     </build>
     <modules>
         <module>java16-record</module>
+        <module>java16-instanceof</module>
     </modules>
 </project>
